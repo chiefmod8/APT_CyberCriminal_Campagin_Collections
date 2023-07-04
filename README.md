@@ -12,8 +12,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 :small_blue_diamond: [kbandla](https://github.com/kbandla/APTnotes) <br>
 :small_blue_diamond: [APTnotes](https://github.com/aptnotes/data) <br>
 :small_blue_diamond: [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) <br>
-:small_blue_diamond: [Attack Wiki](https://attack.mitre.org/wiki/Groups) <br>
-:small_blue_diamond: [threat-INTel](https://github.com/fdiskyou/threat-INTel) <br>
+:small_blue_diamond: [Atta
 :small_blue_diamond: [targetedthreats](https://securitywithoutborders.org/resources/targeted-surveillance-reports.html) <br>
 :small_blue_diamond: [Raw Threat Intelligence](https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc/edit) <br>
 :small_blue_diamond: [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc) <br>
